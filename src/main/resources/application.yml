@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo
+
+demo:
+  path-map:
+    example:
+      host: test
+      port: 8888
